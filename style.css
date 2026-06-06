@@ -163,12 +163,55 @@ span{
     margin-right: 1rem;
 }
 
-.box-image1{
-    margin-top: 50px;
-    background-image: url(image_03.jpg);
+.box-image01{
+    margin-top: 10px;
     height: 300px;
     background-size: contain;
 }
+
+.box-image02{
+    margin-top: 10px;
+    height: 300px;
+    background-size: contain;
+}
+
+.box-image03{
+    margin-top: 10px;
+    height: 300px;
+    background-size: contain;
+}
+
+.box-image04{
+    margin-top: 10px;
+    height: 300px;
+    background-size: contain;
+}
+
+.box-image05{
+    margin-top: 10px;
+    height: 300px;
+    background-size: contain;
+}
+
+.box-image06{
+    margin-top: 10px;
+    height: 300px;
+    background-size: contain;
+}
+
+.box-image07{
+    margin-top: 10px;
+    height: 300px;
+    background-size: contain;
+}
+
+.box-image08{
+    margin-top: 10px;
+    height: 300px;
+    background-size: contain;
+}
+
+
 
 
 
